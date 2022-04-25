@@ -18,6 +18,7 @@ int main(void)
 	while(1)
 	{
 		printf("vuhuy, comment đầu tiên");
+		printf("comment đầu tiên của vub1");
 
 
 //		uart_uart1_transmit((uint8_t*)data,strlen(data),HUY_MAX_DELAY);
