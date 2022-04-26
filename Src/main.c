@@ -21,6 +21,7 @@ int main(void)
 		printf("vuhuy comment thứ 2");
 		printf("huyvu , brandmain comment đầu tiên");
 		printf("vuhuy comment tiếp theo");
+		printf("huy vu bổ sung thêm nè");
 
 
 //		uart_uart1_transmit((uint8_t*)data,strlen(data),HUY_MAX_DELAY);
